@@ -26,15 +26,13 @@ By clearly naming concepts and providing concise, coherent definitions, we aim t
 - **Some keywords**: The keywords "must", "must not", "should", "should not", and "may" in an OFC document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
 ## COGC documents
-| COGC Pattern                 | Link                                                                                |
-|------------------------------|-------------------------------------------------------------------------------------|
-| Auto Scripts                 | [cogc-auto-scripts](./cogc-patterns/auto-scripts/README.md)                         |
-| The 12-factor App            | [cogc-the-12-factor-app](./cogc-patterns/the-12-factor-app/README.md)               |
-| Interested Parties Review    | [cogc-ipr](./cogc-patterns/ipr/README.md)                                           |
-| Architecture Decision Record | [cogc-adr](./cogc-patterns/adr/README.md)                                           |
-| Axiom                        | [cogc-axiom](./cogc-patterns/axiom/README.md)                                       |
-| Tech Radar                   | [cogc-tech-radar](./cogc-patterns/tech-radar/README.md)                             |
-| 1Pager                       | [cogc-1pager](./cogc-patterns/1pager/README.md)                                     |
-| Architectural Principles     | [cogc-architectural-principles](./cogc-patterns/architectural-principles/README.md) |
-| System Wellness Rating       | [cogc-swr](./cogc-patterns/system-wellness-rating/README.md)                        |
-| Developer Portal             | [cogc-developer-portal](#)                                                          |
+| Category                  | COGC Pattern                 |
+| ------------------------- | ---------------------------- |
+| Decision Making Framework | Interested Parties Review    |
+|                           | Architecture Decision Record |
+|                           | Axiom                        |
+| Development               | Auto Scripts                 |
+|                           | The 12-factor App            |
+|                           | Developer Portal             |
+| Operation                 | System Health Rating         |
+| Cloud Custodian           | Cost Saving                  |

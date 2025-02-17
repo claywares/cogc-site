@@ -1,6 +1,7 @@
 [book]
-title = "Chances of Greater Consistency"
+title = "COGC"
 authors = ["m1n9o"]
+description = "Chances of Greater Consistency"
 language = "en"
 multilingual = false
 src = "src"
