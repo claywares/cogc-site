@@ -1,1 +1,1 @@
-# cogc-site
+# COGC Site
