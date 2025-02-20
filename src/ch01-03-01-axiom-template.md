@@ -4,7 +4,7 @@ They are comments to help guide you through various sections of the Axiom proces
 -->
 
 <!--
-This template is compatible with the Decision Maker, Consulted and Informed (DCI) model and is provided to assist you when documenting an Axiom. It provides standard sections we imagine are relevant to all Axioms, references to supporting assets to help with discovery, and pointers to help you along the way. We’d appreciate you trying it out and iterating on the format as the use of a templated layout will make data discovery easier to automate.
+This template is compatible with the Decision Maker, Consulted and Informed (DCI) model and is provided to assist you when documenting an Axiom. It provides standard sections we imagine are relevant to all Axioms, references to supporting assets to help with discovery, and pointers to help you along the way. We'd appreciate you trying it out and iterating on the format as the use of a templated layout will make data discovery easier to automate.
 
 Axioms require conversation and proper understanding of the options. The aim is to get it done properly, so allow time for it to happen 1-4 weeks is the rule of thumb.  Where significant experiments are being undertaken, Axioms can expect to take longer.
 

@@ -29,10 +29,10 @@ ADRs are typically written for significant design decisions that have a long-ter
 
 
 ## HOW
-- Every system repository will have a “docs/adrs” directory. This directory will contain all the ADRs for that system.
+- Every system repository will have a "docs/adrs" directory. This directory will contain all the ADRs for that system.
 - ADRs are the outcome of decision processes and not the processes themselves. In order to produce a high-quality and detailed ADR, you need to explore possible solutions in advance and conduct detailed research and analysis on each solution.  
-- The name of each ADR file should follow the format “NNN-short-description.md”, where NNN is a unique number and short-description is a brief description of the decision.
-- Assets like diagrams, images, or other supporting documents should be stored in the “docs/adrs/assets” directory.
+- The name of each ADR file should follow the format "NNN-short-description.md", where NNN is a unique number and short-description is a brief description of the decision.
+- Assets like diagrams, images, or other supporting documents should be stored in the "docs/adrs/assets" directory.
 - Organize sessions to review and discuss ADRs with the team. This will help ensure that everyone is on the same page and that the decisions are well understood.
 - Everyone in the team should be able to propose an ADR, and everyone in the team should understand the problem, the context, and the potential consequences of each option. This will help ensure that decisions are made collaboratively in the team and that everyone has a voice in the process.
 

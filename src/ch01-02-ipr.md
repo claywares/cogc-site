@@ -3,7 +3,7 @@
 ## WHY
 - In any large organization, decisions are made at various levels and often with complex interdependencies. The IPR exists to address the need for structured decision-making where multiple variables, such as technology, market demands, and team dynamics, converge.
 - By providing a formal process, IPR helps mitigate the risk of making isolated decisions that may have unforeseen negative consequences in other areas. For example, a tech decision that aligns with the product strategy but ignores operational constraints could cause delays or inefficiencies.
-- The process promotes accountability. Since documentation is required, there’s less risk of losing key decision rationale when teams evolve, personnel change, or project scope shifts.
+- The process promotes accountability. Since documentation is required, there's less risk of losing key decision rationale when teams evolve, personnel change, or project scope shifts.
 - IPR also fosters collaboration and inclusivity, allowing stakeholders across different departments to align, which ultimately contributes to a more cohesive and robust decision-making culture.
 
 ## WHAT
@@ -18,7 +18,7 @@ Interested Parties Reviews (IPRs) are used to make design decisions across teams
 ## WHEN
 - The IPR process should be invoked whenever significant design, strategic, or technical decisions need to be made—especially those that involve cross-functional dependencies.
 - It is particularly helpful in:
-  - Major architectural decisions: when choosing platforms, tools, or methodologies that could affect the company’s future scalability.
+  - Major architectural decisions: when choosing platforms, tools, or methodologies that could affect the company's future scalability.
   - Cross-functional projects: where teams from different areas (e.g., product, engineering, operations) need alignment.
   - Strategic pivots or transformations: when decisions need to be made that could impact long-term strategy or organizational change (e.g., adopting new technology or entering a new market).
 - The process is flexible enough to apply to different stages of decision-making, from early scoping to more detailed evaluations. However, timing is crucial: early engagement helps avoid costly late-stage changes, while late-stage reviews ensure that all risks and dependencies are considered before finalizing.
@@ -39,7 +39,7 @@ Interested Parties Reviews (IPRs) are used to make design decisions across teams
 
 Supplementary Notes:
 - IPR as a Learning Process: One aspect that might not be immediately apparent is the learning culture IPR fosters. As teams reflect on past decisions, both successes and failures, they gather insights that inform future decisions. This feedback loop not only improves the IPR process but also helps the organization build a shared understanding of how decisions impact long-term outcomes.
-- Balance between Rigor and Flexibility: While IPR is designed to ensure comprehensive decision-making, it’s important that the process does not become overly rigid. Teams should balance rigor with agility—making sure the framework adapts to the urgency and scale of the decision at hand. For instance, not all decisions require the same level of formal review, and overburdening teams with process could be counterproductive.
-- Cultural Impact: Over time, as IPR becomes embedded in your organization’s culture, it may serve to align the company’s values (such as transparency, accountability, and collaboration). By consistently involving multiple stakeholders and ensuring documentation, IPR helps create a culture where decisions are made in a democratic, informed manner.
+- Balance between Rigor and Flexibility: While IPR is designed to ensure comprehensive decision-making, it's important that the process does not become overly rigid. Teams should balance rigor with agility—making sure the framework adapts to the urgency and scale of the decision at hand. For instance, not all decisions require the same level of formal review, and overburdening teams with process could be counterproductive.
+- Cultural Impact: Over time, as IPR becomes embedded in your organization's culture, it may serve to align the company's values (such as transparency, accountability, and collaboration). By consistently involving multiple stakeholders and ensuring documentation, IPR helps create a culture where decisions are made in a democratic, informed manner.
 
 Check template [here](./ch01-02-01-ipr-template.md).

@@ -21,6 +21,10 @@
 # Operation
 
 - [System Health Rating](./ch03-01-shr.md)
+  - [Intro](./ch03-01-00-intro.md)
+  - [Development](./ch03-01-01-development.md)
+  - [Operations](./ch03-01-02-operations.md)
+  - [Architecture](./ch03-01-03-architecture.md)
 
 # Cloud Governance
 

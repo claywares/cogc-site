@@ -2,7 +2,7 @@
 
 ## WHY
 1. Control Over Operating Expenses
-   * Cloud's Pay-As-You-Go Model: While beneficial, it can lead to runaway costs if resources aren’t carefully managed.
+   * Cloud's Pay-As-You-Go Model: While beneficial, it can lead to runaway costs if resources aren't carefully managed.
    * Organizations save money by right-sizing instances, avoiding overprovisioning, and reducing underutilized resources.
 2. Improved Return on Investment (ROI)
    * Optimizing costs ensures businesses maximize the value gained from the money spent on cloud services.
@@ -20,7 +20,7 @@ Cost saving refers to the strategic management and optimization of cloud computi
 ## WHEN 
 1. During Regular Financial Reviews: Routine audits help identify trends and prevent overspending.
 2. When Identifying Cost Spikes: Unexpected increases in cloud bills can signal inefficiencies or mismanagement.
-3. Periodically as Part of Optimization Efforts: Continuous improvement ensures that new inefficiencies don’t creep in as workloads evolve.
+3. Periodically as Part of Optimization Efforts: Continuous improvement ensures that new inefficiencies don't creep in as workloads evolve.
 4. After Initial Cloud Deployment: New cloud setups often have overprovisioned resources to ensure smooth operations, which can lead to unnecessary costs.
 5. When Adopting New Technologies: Migrating to new services (e.g., serverless or managed services) can offer better cost efficiency.
 
