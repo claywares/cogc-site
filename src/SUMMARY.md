@@ -5,8 +5,11 @@
 # Decision Making Framework
 
 - [Architecture Decision Record](./ch01-01-adr.md)
+  - [Template](./ch01-01-01-adr-template.md)
 - [Interested Parties Review](./ch01-02-ipr.md)
+  - [Template](./ch01-02-01-ipr-template.md)
 - [Axiom](./ch01-03-axiom.md)
+  - [Template](./ch01-03-01-axiom-template.md)
 
 # Development
 
