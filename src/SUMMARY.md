@@ -22,7 +22,7 @@
 
 - [System Health Rating](./ch03-01-shr.md)
 
-# Cloud Custodian
+# Cloud Governance
 
 - [Cost Saving](./ch04-01-cost-saving.md)
   - [Cloud Custodian](./ch04-01-01-cloud-custodian.md)

@@ -5,3 +5,6 @@ description = "Chances of Greater Consistency"
 language = "en"
 multilingual = false
 src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/claywares/cogc-site"
