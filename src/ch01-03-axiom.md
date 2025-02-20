@@ -29,4 +29,4 @@ Axioms are particularly useful for making decisions that:
 - Consulted: All consulting parties will be "C" of the axiom.
 - Informed: Interested teams may choose to be subscribed to some of the decisions.
 
-Check example [here](./template/[TOPICNAME].md).
+Check example [here](./ch01-03-01-axiom-template.md).

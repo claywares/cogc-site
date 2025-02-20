@@ -14,6 +14,7 @@
 # Development
 
 - [Auto Scripts](./ch02-01-auto-scripts.md)
+  - [Examples](./ch02-01-01-examples.md)
 - [The 12-factor App](./ch02-02-12factor.md)
 - [Developer Portal](./ch02-03-developer-portal.md)
 
@@ -24,3 +25,7 @@
 # Cloud Custodian
 
 - [Cost Saving](./ch04-01-cost-saving.md)
+  - [Cloud Custodian](./ch04-01-01-cloud-custodian.md)
+    - [AWS Mode](./ch04-01-01-01-cloud-custodian.md)
+    - [c7n org](./ch04-01-01-02-c7n-org.md)
+    - [Example Policy](./ch04-01-01-03-policy.md)
