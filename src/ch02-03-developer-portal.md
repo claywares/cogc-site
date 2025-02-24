@@ -1,4 +1,4 @@
-# Developer Portal?
+# Developer Portal
 
 A developer portal is a centralized platform designed to provide developers with access to all essential resources, tools, and documentation they need for efficient software development. It serves as an intersection point where different development teams can collaborate and interact with various digital assets. A well-designed developer portal can improve productivity, foster collaboration, and streamline the development process by offering a unified interface.
 
