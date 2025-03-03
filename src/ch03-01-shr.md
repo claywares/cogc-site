@@ -8,7 +8,7 @@ Base one the REA group's research and experience, we will track system ratings i
 1. When creating a new system, we should strive to ensure it remains healthy.
 2. Regularly check the system health rating to ensure the system remains healthy.   
 ## HOW
-Follow the guidelines in the [system-health-rating](https://github.com/claywares/system-health-rating?tab=readme-ov-file#the-mechanics) to rate the system.
+Follow the guidelines in the [system-health-rating intro](./ch03-01-00-intro.md) to rate the system.
 
 ## References
 - [Thoughtworks Tech Radar](https://www.thoughtworks.com/en-br/radar/techniques/tracking-health-over-debt)
