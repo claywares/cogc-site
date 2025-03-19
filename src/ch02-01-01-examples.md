@@ -39,7 +39,7 @@ cd "$(dirname -- "$0")/.."
 
 # If we are in a CI environment, use the CI image
 if [ "${CI:-}" ] ; then
-  IMAGE="[AWS_ACCOUNT].dkr.ecr.ap-southeast-2.amazonaws.com/[NAMESPACE]/example-dev:${CI_BUILD_NUMBER}"
+  IMAGE=[IMAGE_URI]
 # Otherwise, build the dev image locally
 else
   IMAGE="example:dev"

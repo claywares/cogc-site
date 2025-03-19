@@ -1,10 +1,6 @@
 # System Health Rating
 
-Throughout our long-term collaboration with R Company, Thoughtworks has continuously learned from and incorporated R's best practices in system operations and management, particularly in system health assessments. R Company has long adopted a regular evaluation and maintenance mechanism to ensure system stability and scalability. This approach has helped them avoid the accumulation of technical debt while maintaining high availability and maintainability as their business grows.
-
-Through this collaboration, we have come to deeply understand that if a system lacks regular health checks and maintenance after development, it may gradually be neglected, leading to performance degradation, increased security risks, and significant technical debt when expansion or redevelopment is needed. R Company, based on years of engineering experience, has developed a structured system health assessment methodology, covering key dimensions such as architectural stability, maintainability, security, cost management, and data governance, with quantitative metrics for evaluation. This systematic approach to health management not only helps optimize resource utilization but also effectively mitigates operational risks, ensuring the long-term alignment of technical infrastructure with business needs.
-
-Building upon our in-depth study and application of R Company's practices, Thoughtworks has designed a comprehensive system health evaluation framework, using R's methodology as a blueprint and incorporating our own engineering expertise. This framework clearly defines which key dimensions should be assessed, what standards define system health. Our goal is to ensure that this framework not only serves Thoughtworks's internal system management but also provides a referenceable evaluation model for other enterprises. By implementing this methodology, organizations can establish a long-term system health management mechanism, enhance their technical capabilities, and ensure the sustainable and stable growth of their business.
+We consistently observe the improvements teams make to their ecosystems by treating health ratings as equally important as other service-level objectives (SLOs) and prioritizing enhancements accordingly, rather than solely focusing on tracking technical debt. By efficiently allocating resources to address the most impactful health-related issues, teams and organizations can reduce long-term maintenance costs and evolve products more effectively. This approach also enhances communication between technical and non-technical stakeholders, fostering a shared understanding of the system's state. While specific metrics may vary across organizations (see examples in this blog post), they ultimately contribute to long-term sustainability and ensure software remains adaptable and competitive. In a rapidly evolving digital landscape, prioritizing system health tracking over technical debt provides a structured and evidence-based strategy to maintain and enhance systems.
 
 ## The mechanics
 
@@ -17,6 +13,8 @@ Each lens will yield a traffic light result. <span style="background:green">Gree
 For a system to be rated Yellow, all criteria in the Yellow category must be answered with YES or Not Applicable (N/A). If any is a NO the system is deemed Red for that lens.
 
 For a system to be rated Green, all criteria in the Green AND Yellow category must be answered with YES or Not Applicable (N/A). If a criterion for Green is a No then the system is deemed Yellow for that lens or Red if it also receives a No on any Yellow criterion.
+
+p.s. More importantly, different organizations can customize health criterion based on their actual conditions.
 
 ## Examples
 | Case | Green Category                        | Yellow Category                                            | Rate                                          |
